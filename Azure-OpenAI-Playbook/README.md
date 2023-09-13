@@ -5,6 +5,8 @@ This playbook is designed to integrate Microsoft Sentinel with Azure OpenAI.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FAzureOpenAI-Playbook%2Fmain%2Fazuredeploy.json)
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fml58158%2FAzure-Sentinel%2Fblob%2Fmaster%2FAzure-OpenAI-Playbook%2Fazuredeploy.json)
+
 Requirements:
 
 1. Azure OpenAI (Deployed from Azure subscription)
